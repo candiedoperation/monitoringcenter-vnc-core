@@ -1,0 +1,16 @@
+{
+  "name": "monitoringcenter-vnc-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mcvnc-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atheesh Thirumalairajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "ping": "^0.4.1"
+  }
+}
